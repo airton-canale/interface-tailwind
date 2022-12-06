@@ -30,6 +30,17 @@
 
 ## 🚀 Deploy
  -  https://airton-canale.github.io/interface-tailwind/
+
+ - This application was deployed with Github Pages library 
+
+
+ ```bash
+# Install library to deploy
+$ npm install -D gh-pages
+
+# Running deploy
+$ npm run deploy
+```
 <br>
 
 ## Installation
