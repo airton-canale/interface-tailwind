@@ -1,4 +1,4 @@
-<img src="./github/banner.png" alt="Banner">
+<img align="center" src="./github/banner.png" alt="Banner">
 <br>
 <br>
 <h1 align="center"><strong>My Profile</strong></h1>
