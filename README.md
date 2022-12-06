@@ -1,5 +1,7 @@
+<img src="./github/banner.png" alt="Banner">
+<br>
+<br>
 <h1 align="center"><strong>My Profile</strong></h1>
-
 <br>
 <p align="center">
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -21,7 +23,7 @@
 <p>This application shows my portfolio built in ReactJS.</p>
 
 <br>
-<img src="./interface.gif" alt="Readme Gif">
+<img src="./github/interface.gif" alt="Readme Gif">
 <br>
 <br>
 
@@ -53,6 +55,7 @@ $ npm start
 This project was developed using the following technologies:
 
 - <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> **React**
+- <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"> **Tailwind**
 - <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  **JavaScript**
 - <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> **CSS**
 
