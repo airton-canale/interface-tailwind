@@ -9,7 +9,7 @@
   <a href="#installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Deply">Deploy</a>
+  <a href="#Deploy">Deploy</a>
 </p>
 
 <br>
