@@ -2,7 +2,6 @@
 <img margin-left= "300px" src="./github/banner.png" alt="Banner">
 </p>
 <br>
-<br>
 <h1 align="center"><strong>My Profile</strong></h1>
 <br>
 <p align="center">
