@@ -1,7 +1,7 @@
 <p align="center">
 <img margin-left= "300px" src="./github/banner.png" alt="Banner">
-</p>
-<br>
+</p>  
+<h1 align="center"><strong></strong></h1>
 <h1 align="center"><strong>My Profile</strong></h1>
 <br>
 <p align="center">
@@ -13,6 +13,8 @@
 </p>
 
 <br>
+
+
 
 ### This is a project that i practice my knowledge of TailwindCSS, ReactJS and learn about li18 library.
 
@@ -66,8 +68,7 @@ $ npm start
 
 This project was developed using the following technologies:
 
-- <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> **React**
+- <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"> **React.JS**
 - <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"> **Tailwind**
-- <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  **JavaScript**
+- <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"> **Typescript**
 - <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> **CSS**
-
