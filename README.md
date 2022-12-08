@@ -16,7 +16,7 @@
 
 
 
-### This is a project that i practice my knowledge of TailwindCSS, ReactJS and learn about li18 library.
+### This is a project that I used to practice my knowledge of TailwindCSS, ReactJS and learn about i18n library.
 
 <br>
 
@@ -37,9 +37,6 @@
 
 
  ```bash
-# Install library to deploy
-$ npm install -D gh-pages
-
 # Running deploy
 $ npm run deploy
 ```
