@@ -31,7 +31,7 @@
 <br>
 
 ## 🚀 Deploy
- -  https://airton-canale.github.io/interface-tailwind/
+ -  https://interface-tailwind.canale.dev
 
  - This application was deployed with Github Pages library 
 
